@@ -8,7 +8,7 @@ The repo contains the Terraform configurations for provisioning Azure cognitive 
         - Azure Text Analytics
         - Azure Text Translator
         - Azure QnA Maker
-        -Azure Personalizer
+        - Azure Personalizer
         - Azure Custom Vision
         - Azure LUIS API
         - Azure Immersive reader
