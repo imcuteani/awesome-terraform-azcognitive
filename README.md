@@ -2,6 +2,7 @@
 This is the repository of provisioning Azure Cognitive services with Hashicorp Terraform
 
 The repo contains the Terraform configurations for provisioning Azure cognitive services like 
+
         - Azure Computer Vision
         - Azure Face API
         - Azure Text Analytics
