@@ -5,7 +5,20 @@ The repo contains the Terraform configurations for provisioning Azure cognitive 
         - Azure Computer Vision
         - Azure Face API
         - Azure Text Analytics
-        - Video indexer
+        - Azure Text Translator
+        - Azure QnA Maker
+        -Azure Personalizer
+        - Azure Custom Vision
+        - Azure LUIS API
+        - Azure Immersive reader
+        - Azure Form recognizer
+        - Azure Content Moderator
+        - Azure Anomaly Detector 
+        - Azure Speech
+
+
+  Pre-requisites:  Terraform 0.12+ 
+                   Azurerm ~> 2.0      
         
         
  The Terraform commands to be executed for provisioning the services -
