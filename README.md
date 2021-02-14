@@ -27,24 +27,24 @@ The repo contains the Terraform configurations for provisioning Azure cognitive 
  Initialization of terraform backend & plugins with the command
  
  
- 'Terraform init'
+ Terraform init
  
  
  Planning of the terraform workflow & resources to be provisioned - 
  
  
- 'Terraform plan -out="nameofyourtfplan.tfplan"' 
+ Terraform plan -out="nameofyourtfplan.tfplan" 
  
  
  Execution of resources provisioning -
  
  
- 'Terraform Apply "yourtfplan.tfplan"'
+ Terraform Apply "yourtfplan.tfplan"
  
  
  Destroy of the resources once required - 
  
  
- 'Terraform destroy'
+ Terraform destroy
         
         
